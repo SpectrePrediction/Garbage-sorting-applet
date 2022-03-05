@@ -1,0 +1,16 @@
+{
+  "name": "miniprogram-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@paddlejs/paddlejs-backend-webgl": "^1.1.15",
+    "@paddlejs/paddlejs-core": "^2.1.14"
+  }
+}

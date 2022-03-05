@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view>
+  
+  <button id="flyButton" type="primary" bindtap="test"> 
+    {{buttonText}}
+  </button>
+  <canvas canvas-id="myCanvas" style='width:{{canvasWidth}}px; height:{{canvasHeight}}px' ></canvas>
+</view>
