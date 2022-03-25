@@ -9,7 +9,10 @@
 python -m http.server 80
 ```
 
-随后打开小程序即可
+随后打开小程序
+
+修改modelPath: 'http://127.0.0.1'
+即可
 
 ## 开源协议
 
